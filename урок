@@ -1,0 +1,9 @@
+<html>
+    <body style="font-family:sans-serif;text-align:center;background-color:midnightblue;">
+    <h1 style="font-family:sans-serif;text-align:center;background-color:aquamarine;font-size:50px">TechnoFormula</h1>
+    <p style="background-color:white;font-size:20px;">Приглашаем на соревнование по робототехнике. Собери робота, приходи и участвуй! Две команды, каждая из двух роботов, перемещаются по полю и соревнуются в выполнении заданий: нужно собирать фишки, нажимать на кнопки, забираться на рампу. Судьи объявляют победителей в разных номинациях: учитывается работа в команде, качество робота, отдельно награждаются лучшее техническое решение и оригинальная идея.</p>
+    <img src="/uploads/2020/10/robot-4079919_1920_0_1603910269.jpg" height="240px"/>
+    <img src="/uploads/2020/10/robotics-4113406_1920_0_1603910419.jpg" height="240px"/>
+    <img src="/uploads/2020/10/electronics-581598_1920_0_1603910789.jpg" height="240px"/>
+    </body>
+</html>
